@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url("https://i.imgur.com/b9r5sEL.jpg") bottom center;
+  background: url(./img/concert.jpg) bottom center;
   background-size: cover;
 }
 
@@ -21,16 +21,16 @@ html {
 }
 
 .key {
-  border: 0.4rem solid black;
+  border: 0.3rem solid black;
   border-radius: 0.5rem;
   margin: 1rem;
   font-size: 1.5rem;
   padding: 1rem 0.5rem;
-  transition: all 0.07s ease;
+  transition: all 0.5s ease;
   width: 10rem;
   text-align: center;
   color: white;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 0.8);
   text-shadow: 0 0 0.5rem black;
 }
 
